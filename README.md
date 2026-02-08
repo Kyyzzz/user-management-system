@@ -1,10 +1,10 @@
 # User Management System
 
-A full-stack user administration app with role-based access control, built using **React**, **TypeScript**, **NestJS**, and **MySQL**.
+A full-stack web application for managing users with role-based access control, built with **React**, **TypeScript**, **NestJS**, and **MySQL**.
 
 ## 📋 Description
 
-The User Management Portal is a modern, secure platform for managing users, featuring separate dashboards for administrators and standard users, plus authentication, authorization, and CRUD workflows designed with security, usability, and clean architecture in mind.
+The User Management Portal is a modern, secure application that provides user management functionality with separate dashboards for administrators and regular users. It includes authentication, authorization, and CRUD operations with a focus on security, usability, and clean architecture.
 
 ## ✨ Features
 
