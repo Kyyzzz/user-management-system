@@ -1,4 +1,4 @@
-# User Management Portal
+# User Management System
 
 A full-stack web application for managing users with role-based access control, built with **React**, **TypeScript**, **NestJS**, and **MySQL**.
 
